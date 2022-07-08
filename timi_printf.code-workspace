@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"unistd.h": "c"
+		},
+		"C_Cpp.default.includePath": [
+			"..",
+			"./"
+		]
+	}
+}
